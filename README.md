@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Smit334
+- 👋 Hi, I’m Smit Malde (@Smit334)
 - 🌱 I’m currently studying EECS at UC Berkeley
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - Email: smit334@berkeley.edu
 - 🔗LinkedIn - https://www.linkedin.com/in/smit-malde-5867b121b/
 
