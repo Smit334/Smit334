@@ -2,6 +2,7 @@
 - 🌱 I’m currently studying EECS at UC Berkeley
 - 📫 How to reach me - Email: smit334@berkeley.edu
 - 🔗LinkedIn - https://www.linkedin.com/in/smit-malde-5867b121b/
+- 🕸️Portfolio - https://www.smitmalde.co
 
 <!---
 Smit334/Smit334 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
